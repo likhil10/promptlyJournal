@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "637350429439",
+    "firebase_url": "https://promptly-journals.firebaseio.com",
+    "project_id": "promptly-journals",
+    "storage_bucket": "promptly-journals.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:637350429439:android:2b7a121463a1810d",
+        "android_client_info": {
+          "package_name": "com.promptlyjournals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "637350429439-ec7n1v4b45p2uvukin5piadrkq26huca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWYVorBax7Q8A6m-ADXFRs_JHEEjPnZuQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
